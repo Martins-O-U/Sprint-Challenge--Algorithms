@@ -14,6 +14,7 @@ def count_th(word):
         return count_th(word[1:])
 
 
-print(f"There are {count_th('thththtthethet')} 'th' word counted")
+print(
+    f"There are {count_th('tthththasdfthth')} 'th' word counted")
 
 # TBC
